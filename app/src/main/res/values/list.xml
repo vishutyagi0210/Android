@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_values">
+        <item>cm</item>
+        <item>feet</item>
+        <item>m</item>
+    </string-array>
+</resources>

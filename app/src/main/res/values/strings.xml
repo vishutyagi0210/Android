@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="textField_1">Enter your age</string>
+    <string name="textField_2">Enter your Weight</string>
+    <string name="textField_3">Enter your Height</string>
+    <string name="textField_4">Your BMI</string>
+</resources>
